@@ -37,13 +37,13 @@ Problems intended for midterm exam preparation.
 ## 📄 Documents
 
 - [`syllabus.PDF`](syllabus.PDF): Official syllabus of the course.
-- [`done.pdf`](done.pdf): Possibly contains a checklist or record of completed materials.
+- [`done.pdf`](done.pdf): A list of completed materials.
 
 ---
 
 ## 🛠️ Technologies
 
-- Language: **Python 3**
+- Language: **Python**
 - Topics: Basics, Functions, Conditionals, Loops, Lists, OOP, File I/O
 
 ---
